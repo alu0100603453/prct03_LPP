@@ -1,0 +1,3 @@
+18.) Muetra por consola Hello World y devuelve nill
+21.)En el interprete interactico (irb) trata la sentencia puts como una funcion porque devuelve nill al final de la ejecución. En cambio, en el fichero helloworld no.
+
