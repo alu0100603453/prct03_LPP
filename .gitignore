@@ -1,0 +1,9 @@
+eros acabados en ~
+*~
+*.swp
+
+# Ficheros acabados en .o
+*.o
+
+# Ficheros acabados en .class
+*.class
