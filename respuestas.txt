@@ -1,4 +1,11 @@
-18.) Muetra por consola Hello World y devuelve nill
+18.) Muetra por consola Hello World y devuelve nill.
+
 21.)En el interprete interactico (irb) trata la sentencia puts como una funcion porque devuelve nill al final de la ejecución. En cambio, en el fichero helloworld no.
+
 26.) 10, nill, nill, hello world, nill, bye bye world, nill, changed, changed.
-27.) Permite controlar el programa y pararlo en un punto determinado para hacer pruebas con el. Es como un debugger pero mas potente
+
+27.) Permite controlar el programa y pararlo en un punto determinado para hacer pruebas con el. Es como un debugger pero mas potente.
+
+34.) Comillas dobles evalua lo que esta dentro de la cadena, si hay variables las interpretara y comillas simples imprime tal cual el contenido.
+
+35 y 36. ) La misma diferencia que el anterior.
